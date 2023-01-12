@@ -17,4 +17,14 @@ Hello, World!
 - b
 - c
 
+*This is in italic*
+**This is bold**
+# Heading 1
+## Heading 2
+>Blockquote
+>*List
+>*List
+>*List
+
+
 [Link](https://rug005.github.io/cse15l-lab-reports/ruben.html)
