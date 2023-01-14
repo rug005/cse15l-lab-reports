@@ -1,7 +1,10 @@
 # Lab Report 1
 **Bold** Part 1-Set up you CSE15L Account
+> 
 [Link](https://sdacs.ucsd.edu/~icc/index.php)
 [TUTORIAL] (https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
+
+---
 
 **Part 2-Using Visual Studio Code**
 In order to use Visual Studio Code you must install it in your computer.
@@ -29,7 +32,9 @@ Once entered you'll be asked to type in your password.
 *If you see this on your screen then your terminal has successfully connected to a computer in the CSE basement and the commands you enter will run on that computer.*
 **You're in**
 
-**Part 5-Run Some Commands**
+---
+
+**Part 4-Run Some Commands**
 Try running the commands...
 cd: Allows you to move between directories
 ls: List
