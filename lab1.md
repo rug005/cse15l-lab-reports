@@ -1,5 +1,5 @@
 ![Image](VSC.png)
 
-![Image](cluster status.png)
+![Image](cluster.png)
 
 ![Image](file.png)
