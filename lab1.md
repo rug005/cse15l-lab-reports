@@ -1,4 +1,5 @@
 # Lab Report 1
+**Part 1- Setting up your CSE15L Account
 **Bold** Part 1-Set up you CSE15L Account
 [Link](https://sdacs.ucsd.edu/~icc/index.php)
 
