@@ -12,7 +12,9 @@ There are different versions for all all OS devices.
 If downloaded correctly, it should look something like this...
 ![Image](VSC.png)
 
+---
 **Part 3-Remotely Connecting**
+
 [Using Bash on Windows in VScode](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994)
 To use ssh you must open a terminal in VScode. (Ctrl or Command + ', or use the Terminal->New Terminal menu option).
 $ ssh cs15lwi23zz@ieng6.ucsd.edu
