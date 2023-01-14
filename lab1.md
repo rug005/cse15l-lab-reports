@@ -21,7 +21,9 @@ After successfully signing in you'll be asked a yes or no question. So type yes 
 Once entered you'll be asked to type in your password.
 **Remember: Don't panic if you can't see your password being typed! It's suppose to do that**
 *Once you log in your terminal it should look something like:* 
+
 ![Image](cluster.png)
+
 *If you see this on your screen then your terminal has successfully connected to a computer in the CSE basement and the commands you enter will run on that computer.*
 **You're in**
 
@@ -33,7 +35,13 @@ pwd: print working directory
 mkdir: Creates a directory or subdirectory
 cp: copy
 *Here are other specific useful commands to try:*
-- a
-- b
-- c
+- cd ~
+- cd
+- ls -lat
+- ls -a
+- ls <directory> where <directory is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group member's username
+- cp home/linux/linux/ieng6/cs15lwi23/public/hello.txt ~/
+- cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+
+ *You should see something like this*
 ![Image](file.png)
