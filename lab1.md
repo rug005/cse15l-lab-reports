@@ -1,4 +1,4 @@
-#Week1 Tutorial For MarkDown,URLs,Paths,and theFilesystem#
+# Week1 Tutorial For MarkDown,URLs,Paths,and theFilesystem
 **Bold** Part 1-Set up you CSE15L Account
 [Link](https://sdacs.ucsd.edu/~icc/index.php)
 [TUTORIAL] How to Reset your Password
