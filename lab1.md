@@ -1,7 +1,7 @@
 # Week1 Tutorial For MarkDown,URLs,Paths,and theFilesystem
 **Bold** Part 1-Set up you CSE15L Account
 [Link](https://sdacs.ucsd.edu/~icc/index.php)
-[TUTORIAL] How to Reset your Password
+[TUTORIAL] (https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 
 **Part 2-Using Visual Studio Code**
 In order to use Visual Studio Code you must install it in your computer.
@@ -44,4 +44,9 @@ cp: copy
 - cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 
  *You should see something like this*
+  
 ![Image](file.png)
+  
+ *To log out of the remote server in your terminal use:*
+  - Ctrl-D
+  -Run the command exit
